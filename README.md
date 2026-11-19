@@ -66,10 +66,6 @@ terra-ansible-starter/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repo
-```bash
-git clone https://github.com/Pravesh-Sudha/terra-projects.git
-cd terra-projects/terra-ansible-starter
-```
 
 ### 2. Create SSH key for EC2 access
 
