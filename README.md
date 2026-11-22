@@ -1,4 +1,5 @@
-# Terraform & Ansible Multi-Environment Infrastructure Automation
+### Terraform & Ansible 
+Multi-Environment Infrastructure Automation
 
 An Infrastructure as Code project that automates AWS infrastructure provisioning and server configuration using **Terraform, Ansible, Python, and AWS EC2**.
 
