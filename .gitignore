@@ -1,0 +1,24 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+
+# Terraform variables
+*.tfvars
+!terraform.tfvars.example
+
+# Generated files
+terra-config/output.json
+ansible/inventory/hosts.ini
+
+# Credentials
+*.pem
+*.key
+appKey
+
+# Python
+__pycache__/
+*.pyc
